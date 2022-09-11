@@ -9,7 +9,7 @@
  
 
 ## Framework
-<img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=333333"/> <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=333333"/> <img src="https://img.shields.io/badge/Discord.JS-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Discord.PY-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=333333"/> <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=333333"/> <img src="https://img.shields.io/badge/Discord.JS-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Discord.PY-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Nextcord-7289DA?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/>
 
 ## Etc
 <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=MongoDB&logoColor=E8E7D5"/>
