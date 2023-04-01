@@ -12,4 +12,4 @@
 
 ## Etc
 <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=MongoDB&logoColor=E8E7D5"/>
-<img src="https://img.shields.io/badge/MongoDB-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF"/>
